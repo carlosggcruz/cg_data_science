@@ -16,7 +16,7 @@ My credentials include a Master's in Advanced Computational Methods in Civil Eng
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carlosggcruz)
 
-## Projetos:
-Veja os tutoriais publicados:
+## Projeects:
+See the published tutorials:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
