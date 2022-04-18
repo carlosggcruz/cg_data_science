@@ -5,7 +5,7 @@
 </p>
 
 # Carlos G. G. Cruz
-<sub>*Master Student* at RWTH Aachen (TU9) - Germany </sub>
+<sub>*Master's Student* at RWTH Aachen (TU9) - Germany </sub>
 
 I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to solve real Civil and Mechanical Engineeing problems. Thus, I developed a critical thinking and problem-solving skills.
 
