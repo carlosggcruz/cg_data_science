@@ -9,7 +9,7 @@
 
 As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
 
-My credentials include a Master's in Advanced Computational Methods in Civil Engineering from the RWTH Aachen one of the TU9, an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Germany.
+My credentials include a Master's in Advanced Computational Methods in Civil Engineering from the RWTH Aachen one of the TU9, an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Germany and in the world.
 
 **Background in:** Python, Machine Learning, Data Analysis, Multidisciplinary Optmizatiton, Production Tools, Structural Analysis, Life Cycle, Fatigue and Crack Analysis.
 **Links:**
