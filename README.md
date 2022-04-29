@@ -11,7 +11,7 @@ I combine analytical skills, ability to work in team environments, and attention
 
 My credentials include a Master's in Advanced Computational Methods in Civil Engineering from the RWTH Aachen one of the TU9, an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Germany and in the world.
 
-**Background in:** Python, Machine Learning, Data Analysis, Multidisciplinary Optmizatiton, Production Tools, Structural Analysis, Life Cycle, Fatigue and Crack Analysis.
+**Background in:** Python, Machine Learning, Data Analysis, Multidisciplinary Optmizatiton, Production Tools.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carlosggcruz)
