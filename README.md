@@ -19,4 +19,4 @@ My credentials include a Master's in Advanced Computational Methods in Civil Eng
 ## Projects:
 See the published tutorials:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Initial Exploratory Analysis - Airbnb Project:** https://bit.ly/39dKkX9
