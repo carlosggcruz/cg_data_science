@@ -20,3 +20,4 @@ My credentials include a Master's in Advanced Computational Methods in Civil Eng
 See the published tutorials:
 
 * **Initial Exploratory Analysis - Airbnb Project:** https://bit.ly/39dKkX9
+* **Credit Card Fraud Detection:** https://bit.ly/3P3vFhQ
