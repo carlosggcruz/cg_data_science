@@ -22,4 +22,4 @@ See the published tutorials:
 * **Initial Exploratory Analysis - Airbnb Project:** https://bit.ly/39dKkX9
 * **Credit Card Fraud Detection:** https://bit.ly/3P3vFhQ
 * **Churn Prediction from Telecomunication Company Data**:  https://bit.ly/3FvtpeS
-* ** Credit Risk Analysis**: https://bit.ly/3PblN5N
+* **Credit Risk Analysis**: https://bit.ly/3PblN5N
